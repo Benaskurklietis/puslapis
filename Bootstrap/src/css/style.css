@@ -1,0 +1,59 @@
+.navbar-nav>li{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.my-hr{
+    width: 100% ;
+}
+.fa-facebook-square{
+    color:#3b5998 ;
+}
+.fa-twitter{
+    color:#38A1F3 ;
+}
+.fa-linkedin{
+    color:#4875B4 ;
+}
+.fa-instagram{
+    color:#4E433C ;
+}
+.fa-youtube{
+    color:#FF3333 ;
+}
+.social{
+    font-size: 70px;
+}
+.social a{
+    padding: 60px ;
+}
+footer{
+    padding-top: 2rem;
+    background-color: #3f3f3f;
+}
+
+
+
+h5{
+    color: white ;
+}
+.fa-bitcoin{
+    color: white ;
+}
+.steel{
+    color: white ;
+}
+.gold{
+    font-size: 50px ;
+}
+.fa-code{
+    color:#978E7A ;
+}
+.fa-bold{
+    color: rgb(122, 12, 122) ;
+}
+.fa-css3{
+    color: #38A1F3 ;
+}
+.light{
+    background-color: lightgray ;
+}

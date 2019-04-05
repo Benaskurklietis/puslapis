@@ -1,0 +1,33 @@
+body {
+    background-image: url("../img/1.jpg") ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    background-repeat: no-repeat, repeat ;
+    background-size: cover ;
+}
+img{
+    height: 600px ;
+}     
+table, th, td {
+    border-collapse: collapse ;
+    width: 30% ;
+   margin: auto ;
+   border: 1px solid black ;
+}
+h1{
+    font-size: 30px ;
+}
+ol{
+    font-size: 25px ;
+}
+table{
+    text-align: center ;
+}
+th{
+    background-color: rgb(54, 66, 134) ;
+}
+td{
+    background-color: rgb(110, 126, 219) ;
+}
+.center{
+    text-align: center ;
+}

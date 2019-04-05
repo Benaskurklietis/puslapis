@@ -1,0 +1,13 @@
+body{
+    text-align: center ;
+    margin-top: 480px ;
+    background-color: rgb(187, 218, 146)
+}
+button{
+    width: 120px;
+    height: 50px;
+    color: darkred;
+    background-color:rgb(241, 171, 171);
+    border-radius: 3px;
+    border: none;
+}
